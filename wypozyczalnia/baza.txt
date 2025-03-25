@@ -1,0 +1,9 @@
+1 	WR 2023     	Audi     	A3     	2002 	Niebieski     	233421
+2 	WPY 12345     	Mercedes     	AMG     	2021 	Srebrny     	35012
+3 	TK 12345     	Hyundai     	Elantra     	2015 	Czerwony     	64256
+4 	TKI 62357     	BMW     	E36     	2000 	Srebrny     	290213
+5 	WA 42135     	BMW     	E90     	2012 	Bialy     	102341
+6 	EOP 23125     	Kia     	Ceed     	2010 	Zielony     	150213
+7 	TSK 2137     	BMW     	E46     	2000 	Czarny     	421342
+8 	GP 21145         	Ford     	Mustang     	2019 	Zielony     	35213
+9 	TK 12345 	Hjunaj 	i20x 	2022 	Bialy 	12345

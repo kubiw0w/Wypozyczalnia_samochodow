@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Dodawanie">
+      <UniqueIdentifier>{a4880792-e4a5-430d-9ec6-ed934f37e836}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Edycja">
+      <UniqueIdentifier>{efafacf8-7f20-4995-8a7d-89621f7beef0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Sortowanie">
+      <UniqueIdentifier>{4c4d6673-916d-4697-a9ba-96dc53f0b6b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Usuwanie">
+      <UniqueIdentifier>{b9e718ac-626f-45db-991d-3d51da7f750e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Wyświetlanie">
+      <UniqueIdentifier>{8ead5042-166d-43e7-a80f-a8bb15f795c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Dodawanie">
+      <UniqueIdentifier>{a5f5633d-c76f-4c5c-a4bd-89bfec3c4319}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Edycja">
+      <UniqueIdentifier>{262490ce-92c1-4e0c-bc06-9ecebb01ea46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Sortowanie">
+      <UniqueIdentifier>{4c06ac5e-f5ff-470d-8554-2af792845796}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Usuwanie">
+      <UniqueIdentifier>{b8046707-899e-425f-8faf-5b27fff0611e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Wyświetlanie">
+      <UniqueIdentifier>{f6461a27-abd6-4dee-bd2e-af2393fbe527}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\MAIN">
+      <UniqueIdentifier>{be8fb43f-0c99-46b3-a011-b698dcfb78e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Wyszukiwanie Aut">
+      <UniqueIdentifier>{58590edf-983b-4354-bb80-4bc27c550680}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Wyszukiwanie Aut">
+      <UniqueIdentifier>{3bdf499b-a728-4c43-9227-8afc3b764693}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Wypożyczanie">
+      <UniqueIdentifier>{f5b4e0bf-80c5-49ce-af6f-87fb973c4229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Wypożyczanie">
+      <UniqueIdentifier>{ff2fa83b-fb64-4f9e-9826-85f4c6d35253}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Zwrot">
+      <UniqueIdentifier>{fb9f6f99-4467-4eb4-af8d-7e178917f36b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Zwrot">
+      <UniqueIdentifier>{a2f62816-0dd4-4c46-851a-6a2af9367b3c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DodawanieAut.c">
+      <Filter>Pliki źródłowe\Dodawanie</Filter>
+    </ClCompile>
+    <ClCompile Include="DodawanieKlientow.c">
+      <Filter>Pliki źródłowe\Dodawanie</Filter>
+    </ClCompile>
+    <ClCompile Include="EdytowanieAut.c">
+      <Filter>Pliki źródłowe\Edycja</Filter>
+    </ClCompile>
+    <ClCompile Include="EdytowanieKlienta.c">
+      <Filter>Pliki źródłowe\Edycja</Filter>
+    </ClCompile>
+    <ClCompile Include="SortMalRokProd.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SortRosRokProd.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="wypozyczalnia.c">
+      <Filter>Pliki źródłowe\MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="WyswietlenieAut.c">
+      <Filter>Pliki źródłowe\Wyświetlanie</Filter>
+    </ClCompile>
+    <ClCompile Include="WyswietlenieKlientow.c">
+      <Filter>Pliki źródłowe\Wyświetlanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SortRosMarka.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SortMalMarka.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SortRosModel.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SortMalModel.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SortMalKolor.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SortRosKolor.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SortMalPrzebieg.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SortRosPrzebieg.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SortMalNrRej.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SortRosNrRej.c">
+      <Filter>Pliki źródłowe\Sortowanie</Filter>
+    </ClCompile>
+    <ClCompile Include="SzukanieAut.c">
+      <Filter>Pliki źródłowe\Wyszukiwanie Aut</Filter>
+    </ClCompile>
+    <ClCompile Include="UsuwanieAut.c">
+      <Filter>Pliki źródłowe\Usuwanie</Filter>
+    </ClCompile>
+    <ClCompile Include="UsuwanieKlientow.c">
+      <Filter>Pliki źródłowe\Usuwanie</Filter>
+    </ClCompile>
+    <ClCompile Include="WypozyczanieAut.c">
+      <Filter>Pliki źródłowe\Wypożyczanie</Filter>
+    </ClCompile>
+    <ClCompile Include="WyswietlenieWypozyczen.c">
+      <Filter>Pliki źródłowe\Wyświetlanie</Filter>
+    </ClCompile>
+    <ClCompile Include="ZwrotSamochodu.c">
+      <Filter>Pliki źródłowe\Zwrot</Filter>
+    </ClCompile>
+    <ClCompile Include="WypozyczanieNaCzas.c">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DodawanieAut.h">
+      <Filter>Pliki nagłówkowe\Dodawanie</Filter>
+    </ClInclude>
+    <ClInclude Include="DodawanieKlientow.h">
+      <Filter>Pliki nagłówkowe\Dodawanie</Filter>
+    </ClInclude>
+    <ClInclude Include="EdytowanieAut.h">
+      <Filter>Pliki nagłówkowe\Edycja</Filter>
+    </ClInclude>
+    <ClInclude Include="EdytowanieKlienta.h">
+      <Filter>Pliki nagłówkowe\Edycja</Filter>
+    </ClInclude>
+    <ClInclude Include="SortMalRokProd.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SortRosRokProd.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="WyswietlenieAut.h">
+      <Filter>Pliki nagłówkowe\Wyświetlanie</Filter>
+    </ClInclude>
+    <ClInclude Include="WyswietlenieKlientow.h">
+      <Filter>Pliki nagłówkowe\Wyświetlanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SortRosMarka.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SortMalMarka.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SortRosModel.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SortMalModel.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SortMalKolor.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SortRosKolor.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SortMalPrzebieg.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SortRosPrzebieg.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SortMalNrRej.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SortRosNrRej.h">
+      <Filter>Pliki nagłówkowe\Sortowanie</Filter>
+    </ClInclude>
+    <ClInclude Include="SzukanieAut.h">
+      <Filter>Pliki nagłówkowe\Wyszukiwanie Aut</Filter>
+    </ClInclude>
+    <ClInclude Include="UsuwanieAut.h">
+      <Filter>Pliki nagłówkowe\Usuwanie</Filter>
+    </ClInclude>
+    <ClInclude Include="UsuwanieKlientow.h">
+      <Filter>Pliki nagłówkowe\Usuwanie</Filter>
+    </ClInclude>
+    <ClInclude Include="WypozyczanieAut.h">
+      <Filter>Pliki nagłówkowe\Wypożyczanie</Filter>
+    </ClInclude>
+    <ClInclude Include="WyswietlenieWypozyczen.h">
+      <Filter>Pliki nagłówkowe\Wyświetlanie</Filter>
+    </ClInclude>
+    <ClInclude Include="ZwrotSamochodu.h">
+      <Filter>Pliki nagłówkowe\Zwrot</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,32 @@
+﻿  DodawanieAut.c
+  DodawanieKlientow.c
+  EdytowanieAut.c
+  EdytowanieKlienta.c
+  SortMalKolor.c
+  SortMalMarka.c
+  SortMalModel.c
+  SortMalNrRej.c
+  SortMalPrzebieg.c
+  SortMalRokProd.c
+  SortRosKolor.c
+  SortRosMarka.c
+  SortRosModel.c
+  SortRosNrRej.c
+  SortRosPrzebieg.c
+  SortRosRokProd.c
+  SzukanieAut.c
+  UsuwanieAut.c
+  UsuwanieKlientow.c
+  wypozyczalnia.c
+  Generowanie kodu...
+  Trwa kompilowanie...
+  WypozyczanieAut.c
+  WypozyczanieNaCzas.c
+  WyswietlenieAut.c
+  WyswietlenieKlientow.c
+  WyswietlenieWypozyczen.c
+  ZwrotSamochodu.c
+  Generowanie kodu...
+C:\Users\Kuba\Desktop\PP2.PRO.1ID14B.TOBERA.SZELĄG.ŚLUSARCZYK.TM1\wypozyczalnia\wypozyczalnia\WyswietlenieKlientow.c(106): warning C4715: "wyswietl”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Kuba\Desktop\PP2.PRO.1ID14B.TOBERA.SZELĄG.ŚLUSARCZYK.TM1\wypozyczalnia\wypozyczalnia\WyswietlenieKlientow.c(88,3): warning C4033: "wyswietl" musi zwracać wartość
+  wypozyczalnia.vcxproj -> C:\Users\Kuba\Desktop\PP2.PRO.1ID14B.TOBERA.SZELĄG.ŚLUSARCZYK.TM1\wypozyczalnia\x64\Debug\wypozyczalnia.exe

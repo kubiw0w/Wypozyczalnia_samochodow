@@ -1,0 +1,27 @@
+ID samochodu: 1
+Nr rejestracyjny: WR 2023   
+Marka: Audi   
+Model: A3   
+Rok produkcji: 2002
+Kolor: Niebieski   
+Przebieg: 233421
+Numer karty klienta: 2
+Imiê klienta: Maciej 
+Nazwisko klienta: Maj 
+Adres klienta: Jerozolimska 12 
+Telefon klienta: 521521521
+----------------------------------------
+Wypo¿yczenie:
+ID samochodu: 9
+Nr rejestracyjny: TK 12345 
+Marka: Hjunaj 
+Model: i20x 
+Rok produkcji: 2022
+Kolor: Bialy 
+Przebieg: 12345
+Numer karty klienta: 4
+Imiê klienta: Marcel  
+Nazwisko klienta: Krus  
+Adres klienta: Sezamkowa 67  
+Telefon klienta: 621363231
+----------------------------------------
